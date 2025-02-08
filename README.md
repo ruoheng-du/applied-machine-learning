@@ -4,12 +4,12 @@ This repository contains code implementations and analysis done in the Applied M
 1. **Linear_Models_SVMs.ipynb**  
    Implementation and analysis of linear models and Support Vector Machines (SVMs) for classification and regression tasks.
 
-<img width="500" alt="notebook1" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook1.png">
+<img width="700" alt="notebook1" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook1.png">
 
 2. **Tree-based_Ensemble_Models.ipynb**  
    Application of tree-based ensemble methods like Random Forests and Gradient Boosting to enhance predictive performance and interpretability.
 
-<img width="500" alt="notebook2" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook2.png">
+<img width="700" alt="notebook2" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook2.png">
 
 3. **Imbalanced_Dataset.ipynb**  
    Techniques and strategies to handle imbalanced datasets, including resampling methods and evaluation metrics tailored for imbalanced data.
@@ -19,7 +19,7 @@ This repository contains code implementations and analysis done in the Applied M
 4. **Natural_Language_Processing.ipynb**  
    Exploration of NLP techniques, including text preprocessing, tokenization, and machine learning-based language models.
 
-<img width="200" alt="notebook4-1" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook4-1.png"><img width="200" alt="notebook4-2" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook4-2.png">
+<img width="400" alt="notebook4-1" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook4-1.png"><img width="400" alt="notebook4-2" src="https://github.com/ruoheng-du/applied-machine-learning/raw/main/assets/notebook4-2.png">
 
 5. **Neural_Networks.ipynb**  
    Development and training of neural network models for complex prediction tasks, including hyperparameter tuning and performance evaluation.
